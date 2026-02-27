@@ -17,6 +17,12 @@ Personal practice repository for iterative kata exercises. Each kata iteration s
 - React
 - Angular
 
+## Katas
+
+| Directory   | Topic                         | Notes                              |
+|-------------|-------------------------------|------------------------------------|
+| `rest-api/` | .NET REST API (Music Vault)   | In-memory only; see `kata.md`      |
+
 ## Repository Conventions
 
-As katas are added, each should live in its own subdirectory named descriptively (e.g., `rest-api/`, `graphql-api/`). Update this file with build/test commands when a kata introduces a new tech stack or tooling.
+Each kata lives in its own subdirectory with a `kata.md` describing the rules.
