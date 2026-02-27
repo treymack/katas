@@ -1,0 +1,5 @@
+id,name,formed,genre,active
+10000000-0000-0000-0000-000000000001,Dave Matthews Band,1991,Jam Rock,true
+10000000-0000-0000-0000-000000000002,Van Halen,1974,Hard Rock,false
+10000000-0000-0000-0000-000000000003,Cream,1966,Blues Rock,false
+10000000-0000-0000-0000-000000000004,Derek and the Dominos,1970,Blues Rock,false
