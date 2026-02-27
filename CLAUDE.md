@@ -22,6 +22,7 @@ Personal practice repository for iterative kata exercises. Each kata iteration s
 | Directory   | Topic                         | Notes                              |
 |-------------|-------------------------------|------------------------------------|
 | `rest-api/` | .NET REST API (Music Vault)   | In-memory only; see `kata.md`      |
+| `db/`       | DB persistence (Music Vault)  | EF Core or Dapper+DbUp; SQLite or SQL Server; see `kata.md` |
 
 ## Repository Conventions
 
